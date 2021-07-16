@@ -35,7 +35,7 @@
     "pause": "0.0.1"
   },
   "devDependencies": {
-    "make-node": "0.3.x",
+    "make-node": "0.4.6",
     "mocha": "2.x.x",
     "chai": "2.x.x",
     "chai-connect-middleware": "0.3.x",
