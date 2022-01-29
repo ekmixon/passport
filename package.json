@@ -37,7 +37,7 @@
   "devDependencies": {
     "make-node": "0.3.x",
     "mocha": "2.x.x",
-    "chai": "2.x.x",
+    "chai": "4.3.4",
     "chai-connect-middleware": "0.3.x",
     "chai-passport-strategy": "0.2.x",
     "proxyquire": "1.4.x"
